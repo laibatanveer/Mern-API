@@ -11,7 +11,7 @@ It is a contemporary e-commerce platform tailored to redefine the shopping exper
  With a sleek navigation bar, users can seamlessly transition between different pages like Home, Brands, Categories, and their Profile.
 
 #### Diverse Product Exploration:
- Whether you're hunting for products from a specific brand, within a certain category, or just exploring the wide range available, NeoMark ensures a fluid browsing experience. Product details are just a click away on individual product pages, ensuring that customers are well-informed before making a purchase.
+ Whether you're hunting for products from a specific brand, within a certain category, or just exploring the wide range available, it ensures a fluid browsing experience. Product details are just a click away on individual product pages, ensuring that customers are well-informed before making a purchase.
 
 #### Personalized Shopping Cart:
  Our custom cart ensures that your selected products are safely stored until you're ready to proceed with the purchase.
